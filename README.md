@@ -23,5 +23,6 @@ Who has the potential to be converted into more profitable customers?
 
 This project is focused on dividing the customer base of an Australian bike company into different segements using the RFM framework. Data was sourced from Kaggle https://www.kaggle.com/datasets/rahuljangam/bicycle-sales-australia and it shows transaction details, customer details and customer demographics.
 
-"C:\Users\ofagb\Downloads\Customer-Segmentation-Using-RFM-Analysis.jpg"
 
+
+![Customer-Segmentation-Using-RFM-Analysis](https://github.com/leks39/Marketing-Analytics---RFM/assets/113634690/2c8666f3-4305-4957-acbe-a58ad0ce4441)
