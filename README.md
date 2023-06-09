@@ -2,7 +2,7 @@
 
 In today's world, it is essential for companies to harness and levearge on data to formulate smart strategies which helps in retaining customers 
 and improving their product satisfaction. Marketing analytics is a relatively new field that solves this problem for companies by offering 
-meaningful insights into factors that help drive favorable outcomes.
+meaningful insights into factors that help drive favorable outcomes from customer data.
 
 This project applies 2 marketing analytics concepts; RFM and CLV to the customer base of an Australian bike company. The first part divides customers 
 into different segements using the RFM framework. After segmentation is carried out, the CLV which reasonably predicts how much a company can expect 
